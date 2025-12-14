@@ -30,18 +30,36 @@ export default function RootLayout({
         {/* Conteúdo principal */}
         <main className="flex-1">{children}</main>
 
-        {/* Rodapé PIX */}
+        {/* Rodapé PIX + legenda */}
         <footer className="w-full text-center py-6 bg-white border-t shadow-inner mt-8">
-          <p className="text-xl font-semibold text-red-700">
+          <p className="text-xl font-semibold text-red-700 mb-2">
             💝 Deseja colaborar com o casamento?
           </p>
 
-          <p className="text-md mt-1 text-gray-700">
+          <p className="text-md text-gray-700 mb-4">
             Chave PIX:
             <span className="text-red-600 font-bold ml-2">
               batalhaenio@gmail.com
             </span>
           </p>
+
+          {/* Legenda das cores */}
+          <div className="flex flex-wrap justify-center gap-4 text-sm font-medium">
+            <div className="flex items-center gap-2">
+              <span className="w-4 h-4 rounded-full bg-green-500 shadow-md" />
+              <span className="text-gray-700">Disponível</span>
+            </div>
+
+            <div className="flex items-center gap-2">
+              <span className="w-4 h-4 rounded-full bg-orange-500 shadow-md" />
+              <span className="text-gray-700">Reservado (Pendente)</span>
+            </div>
+
+            <div className="flex items-center gap-2">
+              <span className="w-4 h-4 rounded-full bg-red-600 shadow-md" />
+              <span className="text-gray-700">Pago</span>
+            </div>
+          </div>
         </footer>
       </body>
     </html>
