@@ -10,10 +10,17 @@ export interface RaffleNumber {
  * – Você só edita aqui
  */
 const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pendente 🙏" } } = {
+  3: { buyer: "Eullys Alves", status: "Pago ✅" },
   13: { buyer: "Yasmin", status: "Pago ✅" },
+  16: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
   19: { buyer: "Jocasta", status: "Pago ✅" },
-  29: { buyer: "Paula Renata", status: "Pago ✅" },
+  26: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  28: { buyer: "Henrique de Jesus", status: "Pago ✅" },
+  29: { buyer: "Paula Renata", status: "Pendente 🙏" },
+  36: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  46: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  56: { buyer: "Gleison Santos", status: "Pendente 🙏" },
 };
 
 /**
