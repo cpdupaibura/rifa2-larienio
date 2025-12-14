@@ -26,7 +26,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   46: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   49: { buyer: "Wesliany", status: "Pendente 🙏" },
   56: { buyer: "Gleison Santos", status: "Pendente 🙏" },
-  87: { buyer: "Marcus IFPE", status: "Pendente 🙏" },
+  87: { buyer: "Marcus IFPE", status: "Pago ✅" },
 };
 
 /**
