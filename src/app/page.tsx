@@ -17,7 +17,7 @@ export default function Home() {
 
         <div className="flex items-center gap-2 text-sm font-semibold text-orange-700">
           <span className="w-4 h-4 rounded-full bg-orange-500 shadow-md" />
-          Reservado (Pendente)
+          Reservado
         </div>
 
         <div className="flex items-center gap-2 text-sm font-semibold text-red-700">
