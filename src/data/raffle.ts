@@ -11,6 +11,9 @@ export interface RaffleNumber {
  */
 const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pendente 🙏" } } = {
   13: { buyer: "Yasmin", status: "Pago ✅" },
+  17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
+  19: { buyer: "Jocasta", status: "Pago ✅" },
+  29: { buyer: "Paula Renata", status: "Pago ✅" },
 };
 
 /**
