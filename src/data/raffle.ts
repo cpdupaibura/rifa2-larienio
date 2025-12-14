@@ -11,14 +11,18 @@ export interface RaffleNumber {
  */
 const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pendente 🙏" } } = {
   3: { buyer: "Eullys Alves", status: "Pago ✅" },
+  5: { buyer: "Cassi Trajano", status: "Pago ✅" },
+  12: { buyer: "Cassi Trajano", status: "Pago ✅" },
   13: { buyer: "Yasmin", status: "Pago ✅" },
   16: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
   19: { buyer: "Jocasta", status: "Pago ✅" },
   26: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  27: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
   28: { buyer: "Henrique de Jesus", status: "Pago ✅" },
-  29: { buyer: "Paula Renata", status: "Pendente 🙏" },
+  29: { buyer: "Paula Renata", status: "Pago ✅" },
   36: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  39: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
   46: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   56: { buyer: "Gleison Santos", status: "Pendente 🙏" },
 };
