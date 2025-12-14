@@ -4,8 +4,8 @@ import BallGrid from "@/components/BallGrid";
 export default function Home() {
   return (
     <main className="min-h-screen w-full flex flex-col items-center justify-start p-10 bg-[#fdf7f2]">
-      <h1 className="text-3xl font-bold mb-2 text-neutral-900 drop-shadow-sm text-center">
-        Rifa de Casamento 2 – Larissa & Enio 💍
+      <h1 className="text-4xl md:text-5xl mb-2 text-neutral-900 text-center font-[var(--font-playfair)] tracking-wide">
+        Rifa de Casamento – Larissa & Enio 💍
       </h1>
 
       {/* Legenda das cores */}
