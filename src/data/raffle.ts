@@ -10,22 +10,32 @@ export interface RaffleNumber {
  * – Você só edita aqui
  */
 const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pendente 🙏" } } = {
+  1: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   3: { buyer: "Eullys Alves", status: "Pago ✅" },
   5: { buyer: "Cassi Trajano", status: "Pago ✅" },
+  11: { buyer: "Silas Batalha", status: "Pendente 🙏" },
   12: { buyer: "Cassi Trajano", status: "Pago ✅" },
   13: { buyer: "Yasmin", status: "Pago ✅" },
   16: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
   19: { buyer: "Jocasta", status: "Pago ✅" },
+  21: { buyer: "Danilo Barbosa", status: "Pago ✅" },
+  22: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   26: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   27: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
-  28: { buyer: "Henrique de Jesus", status: "Pago ✅" },
+  28: { buyer: "Henrique Barbosa", status: "Pago ✅" },
   29: { buyer: "Paula Renata", status: "Pago ✅" },
+  30: { buyer: "Silas Batalha", status: "Pendente 🙏" },
+  33: { buyer: "Jhon Kennedy", status: "Pendente 🙏" },
   36: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  37: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   39: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
+  44: { buyer: "Jhon Kennedy", status: "Pendente 🙏" },
   46: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   49: { buyer: "Wesliany", status: "Pendente 🙏" },
   56: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  74: { buyer: "Danilo Barbosa", status: "Pago ✅" },
+  77: { buyer: "Jhon Kennedy", status: "Pendente 🙏" },
   87: { buyer: "Marcus IFPE", status: "Pago ✅" },
 };
 
