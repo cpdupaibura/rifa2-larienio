@@ -12,7 +12,7 @@ export interface RaffleNumber {
 const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pendente 🙏" } } = {
   1: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   3: { buyer: "Eullys Alves", status: "Pago ✅" },
-  4: { buyer: "Fernanda Socorro", status: "Pago ✅" },
+  4: { buyer: "Fernanda Socorro", status: "Pendente 🙏" },
   5: { buyer: "Cassi Trajano", status: "Pago ✅" },
   11: { buyer: "Silas Batalha", status: "Pendente 🙏" },
   12: { buyer: "Cassi Trajano", status: "Pago ✅" },
