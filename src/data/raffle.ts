@@ -41,6 +41,16 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   74: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   77: { buyer: "Jhon Kennedy", status: "Pendente 🙏" },
   87: { buyer: "Marcus IFPE", status: "Pago ✅" },
+  90: { buyer: "Dona Rosa", status: "Pago ✅" },
+  91: { buyer: "Dona Rosa", status: "Pago ✅" },
+  92: { buyer: "Dona Rosa", status: "Pago ✅" },
+  93: { buyer: "Dona Rosa", status: "Pago ✅" },
+  94: { buyer: "Dona Rosa", status: "Pago ✅" },
+  95: { buyer: "Dona Rosa", status: "Pago ✅" },
+  96: { buyer: "Dona Rosa", status: "Pago ✅" },
+  97: { buyer: "Dona Rosa", status: "Pago ✅" },
+  98: { buyer: "Dona Rosa", status: "Pago ✅" },
+  99: { buyer: "Dona Rosa", status: "Pago ✅" },
 };
 
 /**
