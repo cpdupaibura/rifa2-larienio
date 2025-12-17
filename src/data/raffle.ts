@@ -21,6 +21,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   16: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
   19: { buyer: "Jocasta", status: "Pago ✅" },
+  20: { buyer: "Carlos Junior", status: "Pendente 🙏" },
   21: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   22: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   24: { buyer: "Emanuelle Cabral", status: "Pendente 🙏" },
@@ -34,6 +35,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   36: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   37: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   39: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
+  40: { buyer: "Carlos Junior", status: "Pendente 🙏" },
   44: { buyer: "Jhon Kennedy", status: "Pago ✅" },
   46: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   47: { buyer: "Anderson Silva", status: "Pendente 🙏" },
@@ -44,8 +46,12 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   54: { buyer: "Fernanda Cruz", status: "Pago ✅" },
   55: { buyer: "Fernanda Cruz", status: "Pago ✅" },
   56: { buyer: "Gleison Santos", status: "Pendente 🙏" },
+  60: { buyer: "Carlos Junior", status: "Pendente 🙏" },
   74: { buyer: "Danilo Barbosa", status: "Pago ✅" },
   77: { buyer: "Jhon Kennedy", status: "Pago ✅" },
+  80: { buyer: "Carlos Junior", status: "Pendente 🙏" },
+  82: { buyer: "Anderson Silva", status: "Pendente 🙏" },
+  86: { buyer: "Lilian Rodrigues", status: "Pendente 🙏" },
   87: { buyer: "Marcus IFPE", status: "Pago ✅" },
   90: { buyer: "Dona Rosa", status: "Pago ✅" },
   91: { buyer: "Dona Rosa", status: "Pago ✅" },
@@ -57,6 +63,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   97: { buyer: "Dona Rosa", status: "Pago ✅" },
   98: { buyer: "Dona Rosa", status: "Pago ✅" },
   99: { buyer: "Dona Rosa", status: "Pago ✅" },
+  100: { buyer: "Carlos Junior", status: "Pendente 🙏" },
 };
 
 /**
