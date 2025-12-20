@@ -15,7 +15,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   3: { buyer: "Eullys Alves", status: "Pago ✅" },
   4: { buyer: "Fernanda Roberta", status: "Pago ✅" },
   5: { buyer: "Cassi Trajano", status: "Pago ✅" },
-  //6: { buyer: "André Teixeira", status: "Pago ✅"},
+  6: { buyer: "Giovana Ingrid", status: "Pago ✅"},
   7: { buyer: "Becholina Aline", status: "Pago ✅" },
   8: { buyer: "Eduardo Silva", status: "Pago ✅" },
   9: { buyer: "Eduardo Silva", status: "Pago ✅" },
