@@ -35,6 +35,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   28: { buyer: "Henrique Barbosa", status: "Pago ✅" },
   29: { buyer: "Paula Renata", status: "Pago ✅" },
   30: { buyer: "Silas Batalha", status: "Pago ✅" },
+  32: { buyer: "Giovana Ingrid", status: "Pago ✅" },
   33: { buyer: "Jhon Kennedy", status: "Pago ✅" },
   36: { buyer: "Gleison Santos", status: "Pendente 🙏" },
   37: { buyer: "Danilo Barbosa", status: "Pago ✅" },
