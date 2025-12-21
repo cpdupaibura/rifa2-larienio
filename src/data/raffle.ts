@@ -49,6 +49,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   39: { buyer: "Emanuelle Priscila", status: "Pago ✅" },
   40: { buyer: "Carlos Junior", status: "Pendente 🙏" },
   44: { buyer: "Jhon Kennedy", status: "Pago ✅" },
+  45: { buyer: "Keila Lopes", status: "Pago ✅" },
   46: { buyer: "Gleison Santos", status: "Pago ✅" },
   47: { buyer: "Anderson Silva", status: "Pendente 🙏" },
   49: { buyer: "Wesliany", status: "Pendente 🙏" },
