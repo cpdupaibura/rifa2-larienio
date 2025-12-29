@@ -24,7 +24,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   12: { buyer: "Cassi Trajano", status: "Pago ✅" },
   13: { buyer: "Yasmin", status: "Pago ✅" },
   14: { buyer: "Silvania Batista", status: "Pago ✅" },
-  15: { buyer: "Luciana Serpa", status: "Pendente 🙏" },
+  15: { buyer: "Luciana Serpa", status: "Pago ✅" },
   16: { buyer: "Gleison Santos", status: "Pago ✅" },
   17: { buyer: "Jéssica Geórgia", status: "Pago ✅" },
   18: { buyer: "Denize", status: "Pendente 🙏"},
