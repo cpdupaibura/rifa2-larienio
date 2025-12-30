@@ -92,6 +92,7 @@ const soldNumbers: { [key: number]: { buyer: string; status: "Pago ✅" | "Pende
   80: { buyer: "Carlos Junior", status: "Pago ✅" },
   81: { buyer: "Cauã Victor", status: "Pago ✅" },
   82: { buyer: "Anderson Silva", status: "Pendente 🙏" },
+  83: { buyer: "Uri Dicaio", status: "Pago ✅" },
   84: { buyer: "Prof Denilson PROLINFO", status: "Pago ✅"},
   85: { buyer: "André Teixeira", status: "Pago ✅"},
   86: { buyer: "Lilian Rodrigues", status: "Pendente 🙏" },
